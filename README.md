@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RFsmen-maker
+- 👋 Hi, I’m RFsmen, forget about the suffix.
 - 👀 I’m interested in Computer Vision and Machine Learning.
 - 🌱 I’m currently learning Cplusplus Language.
 - 📫 Reach me on Br2926021463@163.com.
